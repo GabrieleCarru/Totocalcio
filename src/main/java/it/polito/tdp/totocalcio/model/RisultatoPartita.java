@@ -1,5 +1,6 @@
 package it.polito.tdp.totocalcio.model;
 
+// classe ENUM perchè può assumere solo 3 valori: '1', '2' o 'X'
 public enum RisultatoPartita {
 	UNO, DUE, ICS ;
 	
